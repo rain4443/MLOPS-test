@@ -1,0 +1,8 @@
+boto3
+botocore
+streamlit
+pymupdf
+faiss-cpu
+numpy
+python-dotenv
+tqdm
